@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Explict indents</string>
+    <string name="please_enter_your_name">Please Enter your name</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="welcome_to_the_activity_2">Welcome to the Activity 2</string>
+    <string name="data_from_activity_3_will_be_displayed_here">data from activity 3 will be displayed here</string>
+</resources>
